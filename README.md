@@ -1,6 +1,6 @@
 # nes
 This is a port of Mist NES core to Poseidon with an EP4CGX150DF27I7 FPGA that can be found at https://github.com/mist-devel/nes/tree/master.
-There are some timming warnings that will be solved if time permits.
+There are some timing warnings that will be solved if time permits.
 ;)
 
 # Original README.md
